@@ -13,15 +13,10 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ### Business apps
 
 <dl>
-  <dt>Elearning Apps</dt>
-  <dd><a href="http://www.youtube.com/watch?feature=player_embedded&v=nS2rutFMysE
-" target="_blank"><img src="http://img.youtube.com/vi/nS2rutFMysE/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
-Click to view
-</dd>
-
-  <dt>Markdown in HTML</dt>
-  <dd>Does *not* work **very** well. Use HTML <em>tags</em>.</dd>
+	<dt>Elearning Apps</dt>
+	<dd>[![Jones: Jomblo is Happiness](https://github.com/rendi88/portopolio/img/jones.jpg)](https://www.youtube.com/watch?v=nS2rutFMysE)
+	###### Click to view
+	</dd>
 </dl>
 
 
@@ -31,7 +26,7 @@ Click to view
 
 ### Games apps
 Jones: Jomblo is Happiness
-[![Jones: Jomblo is Happiness](https://github.com/rendi88/portopolio/img/jones.jpg)](https://www.youtube.com/watch?v=nS2rutFMysE)
+
 
 
 

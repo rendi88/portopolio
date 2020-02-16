@@ -12,20 +12,20 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Business apps
 
-<dl>
-	<dt>Elearning Apps (click to view)</dt>
-	<dd><a href="http://www.youtube.com/watch?feature=player_embedded&v=nS2rutFMysE
-" target="_blank"><img src="https://rendi88.github.io/portopolio/img/jones.jpg" 
-alt="Jones: Jomblo is Happiness" width="240" border="10" /></a>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nS2rutFMysE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</dd>
-</dl>
+
 
 ### Games Based apps
+<dl>
+	<dt>Elearning (click to view)</dt>
+	<dd><a href="https://rendi88.github.io/portopolio/tatasurya/index.html" target="_blank"><img src="https://rendi88.github.io/portopolio/img/tatasurya.png" alt="Jones: Jomblo is Happiness" width="240" border="10" /></a>
+	<a href="https://rendi88.github.io/portopolio/interaksi/index.html" target="_blank"><img src="https://rendi88.github.io/portopolio/img/interaksi.png" alt="Jones: Jomblo is Happiness" width="240" border="10" /></a></dd>
+</dl>
 
 ### Games apps
-Jones: Jomblo is Happiness
-
+<dl>
+	<dt>Jones: Jomblo is Happiness (click to view)</dt>
+	<dd><a href="http://www.youtube.com/watch?feature=player_embedded&v=nS2rutFMysE" target="_blank"><img src="https://rendi88.github.io/portopolio/img/jones.jpg" alt="Jones: Jomblo is Happiness" width="240" border="10" /></a></dd>
+</dl>
 
 
 

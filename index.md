@@ -11,8 +11,12 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ## Meet my Works :)
 
 ### Business apps
+####Elearning
+[![Watch the video](https://i.ytimg.com/vi/K7bqq2rbcZQ/hqdefault.jpg)](https://youtu.be/K7bqq2rbcZQ)
+
 ### Games Based apps
 ### Games apps
+####Jones: Jomblos is Happiness
 [![Jones: Jomblo is Happiness](https://i.ytimg.com/vi/l2fBD6y4TAY/hqdefault.jpg)](https://www.youtube.com/watch?v=nS2rutFMysE)
 
 
@@ -48,4 +52,3 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 
 
-[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://github.com/rendi88/portopolio/blob/master/eduELearning.mp4)

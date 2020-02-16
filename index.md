@@ -13,14 +13,13 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ### Business apps
 
 <dl>
-	<dt>Elearning Apps</dt>
+	<dt>Elearning Apps (click to view)</dt>
 	<dd><a href="http://www.youtube.com/watch?feature=player_embedded&v=nS2rutFMysE
 " target="_blank"><img src="https://rendi88.github.io/portopolio/img/jones.jpg" 
-alt="Jones: Jomblo is Happiness" width="240" border="10" /></a></dd>
+alt="Jones: Jomblo is Happiness" width="240" border="10" /></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nS2rutFMysE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</dd>
 </dl>
-
-
-[![Watch the video](https://github.com/rendi88/portopolio/img/elearning.jpg)]()
 
 ### Games Based apps
 

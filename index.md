@@ -1,10 +1,12 @@
 # Hi there..
 I'm Rendi Kristyadi, Im an experienced Project Manager, IT Professional, and Game Developer that manage project with various client.
-My satisfy client were retail, tobacco brand, banking and etc.
-I have technical background, fast learner, had a product building experiences and able to handle many projects. If you interested, please contact me
 
-## Meet my Works :)
-### Business apps
+My satisfy client were retail, tobacco brand, banking and etc. I have technical background, fast learner, had a product building experiences and able to handle many projects. If you interested, please contact me
+
+# Meet my Works
+Here is my notable works... enjoy it :)
+
+## Business Apps
 <dl>
 	<dt>Elearning for insurance Agent (click to view)</dt>
 	<dd><iframe width="560" height="315" src="https://www.youtube.com/embed/K7bqq2rbcZQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></dd>
@@ -18,9 +20,9 @@ I have technical background, fast learner, had a product building experiences an
 	<dd><img src="https://rendi88.github.io/portopolio/img/cjr.png" alt="CJR Ticket Concert" width="500" border="10" /></dd>
 </dl>
 
-### Games Based apps
+## Gamification Apps
 <dl>
-	<dt>AR Simulator</dt>
+	<dt>AR Simulator for Automotive Expo</dt>
 	<dd><img src="https://rendi88.github.io/portopolio/img/daihatsu.png" alt="Daihatsu AR GIASS" width="500" border="10" /></dd>
 	<dt>Game Based Elearning (click to view)</dt>
 	<dd><a href="https://rendi88.github.io/portopolio/tatasurya/index.html" target="_blank"><img src="https://rendi88.github.io/portopolio/img/tatasurya.png" alt="Tata Surya" width="500" border="10" /></a>
@@ -30,7 +32,7 @@ I have technical background, fast learner, had a product building experiences an
 	<dd><img src="https://rendi88.github.io/portopolio/img/indomaret.png" alt="Indomaret" width="500" border="10" /></dd>
 </dl>
 
-### Games apps
+## Games
 <dl>
 	<dt>Visual Novel Games (click to view)</dt>
 	<dd><iframe width="560" height="315" src="https://www.youtube.com/embed/nS2rutFMysE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></dd>

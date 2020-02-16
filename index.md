@@ -1,19 +1,21 @@
-# Meet Me
-
-Hi there..
-Welcome to my portopolio pages
-
-You can use the [editor on GitHub](https://github.com/rendi88/portopolio/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
+# Hi there..
+I'm Rendi Kristyadi, Im an experienced Project Manager, IT Professional, and Game Developer that manage project with various client.
+My satisfy client were retail, tobacco brand, banking and etc.
+I have technical background, fast learner, had a product building experiences and able to handle many projects. If you interested, please contact me
 
 ## Meet my Works :)
-
 ### Business apps
 <dl>
 	<dt>Elearning for insurance Agent (click to view)</dt>
 	<dd><iframe width="560" height="315" src="https://www.youtube.com/embed/K7bqq2rbcZQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></dd>
+	<dt>Mobile Survey System</dt>
+	<dd><img src="https://rendi88.github.io/portopolio/img/survey.png" alt="Mobile Survey System" width="500" border="10" /></dd>
+	<dt>Ecommerce</dt>
+	<dd><img src="https://rendi88.github.io/portopolio/img/ecommerce.png" alt="RendangNiOs" width="500" border="10" /></dd>
+	<dt>News Portal</dt>
+	<dd><img src="https://rendi88.github.io/portopolio/img/gamenesia.png" alt="Gamenesia" width="500" border="10" /></dd>
+	<dt>Ticketing System for Concert</dt>
+	<dd><img src="https://rendi88.github.io/portopolio/img/cjr.png" alt="CJR Ticket Concert" width="500" border="10" /></dd>
 </dl>
 
 ### Games Based apps
@@ -21,51 +23,23 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 	<dt>AR Simulator</dt>
 	<dd><img src="https://rendi88.github.io/portopolio/img/daihatsu.png" alt="Daihatsu AR GIASS" width="500" border="10" /></dd>
 	<dt>Game Based Elearning (click to view)</dt>
-	<dd><a href="https://rendi88.github.io/portopolio/tatasurya/index.html" target="_blank"><img src="https://rendi88.github.io/portopolio/img/tatasurya.png" alt="Jones: Jomblo is Happiness" width="500" border="10" /></a>
+	<dd><a href="https://rendi88.github.io/portopolio/tatasurya/index.html" target="_blank"><img src="https://rendi88.github.io/portopolio/img/tatasurya.png" alt="Tata Surya" width="500" border="10" /></a>
 
-	<a href="https://rendi88.github.io/portopolio/interaksi/index.html" target="_blank"><img src="https://rendi88.github.io/portopolio/img/interaksi.png" alt="Jones: Jomblo is Happiness" width="500" border="10" /></a></dd>
+	<a href="https://rendi88.github.io/portopolio/interaksi/index.html" target="_blank"><img src="https://rendi88.github.io/portopolio/img/interaksi.png" alt="Interaksi Mahluk Hidup" width="500" border="10" /></a></dd>
+	<dt>Football Soccer Score Guessing for Retail Client</dt>
+	<dd><img src="https://rendi88.github.io/portopolio/img/indomaret.png" alt="Indomaret" width="500" border="10" /></dd>
 </dl>
 
 ### Games apps
 <dl>
-	<dt>Jones: Jomblo is Happiness (click to view)</dt>
+	<dt>Visual Novel Games (click to view)</dt>
 	<dd><iframe width="560" height="315" src="https://www.youtube.com/embed/nS2rutFMysE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></dd>
 	<dt>Pokemon Go like game for Kid's Saving Account (click to view)</dt>
 	<dd><iframe width="560" height="315" src="https://www.youtube.com/embed/JeMtFtConi4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></dd>
-	<dt>Game for Learn Mobile Banking apps</dt>
+	<dt>Clicker Game for Learn Mobile Banking apps</dt>
 	<dd><img src="https://rendi88.github.io/portopolio/img/bakso.png" alt="Bakso Rakyat" width="500" border="10" /></dd>
+	<dt>Quiz games for Cigarettes brand</dt>
+	<dd><img src="https://rendi88.github.io/portopolio/img/gudanggaram.png" alt="Intersport Quiz Games" width="500" border="10" /></dd>
+	<dt>Top down Roguelike Game(click to view)</dt>
+	<dd><iframe width="560" height="315" src="https://www.youtube.com/embed/2Vug4mOOt4w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></dd>
 </dl>
-
-
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/rendi88/portopolio/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
-
-

@@ -16,7 +16,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 	<dt>Elearning Apps</dt>
 	<dd><a href="http://www.youtube.com/watch?feature=player_embedded&v=nS2rutFMysE
 " target="_blank"><img src="https://rendi88.github.io/portopolio/img/jones.jpg" 
-alt="Jones: Jomblo is Happiness" width="240" height="180" border="10" /></a></dd>
+alt="Jones: Jomblo is Happiness" width="240" border="10" /></a></dd>
 </dl>
 
 

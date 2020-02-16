@@ -47,4 +47,6 @@ Here is my notable works... enjoy it :)
 </dl>
 
 # Meet my Works
-More information about me.. you can view my Linkedin at <a href="https://www.linkedin.com/in/rendi-kristyadi-a2a00344"> <img src="https://simpleicons.org/icons/linkedin.svg" alt="Linkedin" width="10"/> <span class="username">Rendi Kristyadi</span>/a>
+More information about me.. you can view Social Media at
+
+- <a href="https://www.linkedin.com/in/rendi-kristyadi-a2a00344"> <img src="https://simpleicons.org/icons/linkedin.svg" alt="Linkedin" width="10"/> <span class="username">Linkedin Rendi Kristyadi</span></a>

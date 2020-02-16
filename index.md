@@ -14,8 +14,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 <dl>
 	<dt>Elearning Apps</dt>
-	<dd>[![Jones: Jomblo is Happiness](https://rendi88.github.io/portopolio/img/jones.jpg)](http://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
-	##### Click to view
+	<dd>[![Jones: Jomblo is Happiness](https://rendi88.github.io/portopolio/img/jones.jpg)](http://www.youtube.com/watch?v=nS2rutFMysE)
 	</dd>
 </dl>
 

@@ -1,7 +1,7 @@
 # Hi there..
 I'm Rendi Kristyadi, Im an experienced Project Manager, IT Professional, and Game Developer that manage project with various client.
 
-My satisfy client were retail, tobacco brand, banking and etc. I have technical background, fast learner, had a product building experiences and able to handle many projects. If you interested, please contact me
+My satisfy client were retail, tobacco brand, banking and etc. I have technical background, fast learner, had a product building experiences and able to handle many projects.
 
 # Meet my Works
 Here is my notable works... enjoy it :)
@@ -45,3 +45,18 @@ Here is my notable works... enjoy it :)
 	<dt>Top down Roguelike Game(click to view)</dt>
 	<dd><iframe width="560" height="315" src="https://www.youtube.com/embed/2Vug4mOOt4w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></dd>
 </dl>
+
+# Meet my Works
+More information about me.. you can view my Linkedin at 
+<a href="https://www.linkedin.com/in/rendi-kristyadi-a2a00344">
+	<span class="icon  icon--linkedin">
+		<svg viewBox="0 50 512 512" >
+			<path fill="#828282" d="M150.65,100.682c0,27.992-22.508,50.683-50.273,50.683c-27.765,0-50.273-22.691-50.273-50.683
+			C50.104,72.691,72.612,50,100.377,50C128.143,50,150.65,72.691,150.65,100.682z M143.294,187.333H58.277V462h85.017V187.333z
+			M279.195,187.333h-81.541V462h81.541c0,0,0-101.877,0-144.181c0-38.624,17.779-61.615,51.807-61.615
+			c31.268,0,46.289,22.071,46.289,61.615c0,39.545,0,144.181,0,144.181h84.605c0,0,0-100.344,0-173.915
+			s-41.689-109.131-99.934-109.131s-82.768,45.369-82.768,45.369V187.333z"/>
+		</svg>
+	</span>
+	<span class="username">Rendi Kristyadi</span>
+</a>

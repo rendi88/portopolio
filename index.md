@@ -1,10 +1,21 @@
-## Welcome to GitHub Pages
+## Meet Me
+
+Hi there..
+Welcome to my portopolio pages
 
 You can use the [editor on GitHub](https://github.com/rendi88/portopolio/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+
+## Meet my Works :)
+
+### Business apps
+### Games Based apps
+### Games apps
+[![Jones: Jomblo is Happiness](https://i.ytimg.com/vi/l2fBD6y4TAY/hqdefault.jpg)](https://www.youtube.com/watch?v=nS2rutFMysE)
+
+
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 

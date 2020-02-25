@@ -34,6 +34,8 @@ Here is my notable works... enjoy it :)
 
 ## Games
 <dl>
+	<dt>Strategy Edu-Games (click to view)</dt>
+	<dd><a href="https://rendi88.github.io/portopolio/kotakotak/kotakOtak.html"><img src="https://rendi88.github.io/portopolio/img/kotakotak.png" alt="Bakso Rakyat" width="500" border="10" /></a></dd>
 	<dt>Visual Novel Games (click to view)</dt>
 	<dd><iframe width="560" height="315" src="https://www.youtube.com/embed/nS2rutFMysE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></dd>
 	<dt>Pokemon Go like game for Kid's Saving Account (click to view)</dt>
